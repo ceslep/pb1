@@ -1,0 +1,22 @@
+{
+  "name": "pb",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.1",
+    "svelte": "^3.49.0",
+    "vite": "^3.0.0",
+    "svelte-bootstrap-icons": "^2.0.1"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "chart.js": "^3.8.2",
+    "sweetalert2": "^11.4.20"
+  }
+}

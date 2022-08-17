@@ -1,0 +1,11 @@
+POST https://app.iedeoccidente.com/getNotas.php
+Content-Type: application/application/json
+
+{
+    "asignacion":"1",
+    "asignatura":"TALLER AMB.",
+    "docente":"24391492",
+    "nivel":"6",
+    "numero":"1",
+    "periodo":"DOS"
+                }
